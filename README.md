@@ -6,5 +6,5 @@ This is my Software Engineering Lab repository.
 
 
 
-module2 completed
+module1 and module2 completed
 
